@@ -1,0 +1,11 @@
+.tagcloud-wrap {
+  float: right;
+  width: 53%;
+  height: 115%;
+  margin-top: -3%;
+
+}
+  .tagcloud--item:hover {
+    color: #00ff7f;
+  }
+
