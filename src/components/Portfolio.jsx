@@ -22,12 +22,20 @@ const Portfolio = () => {
       code: "https://github.com/vivekanandhansj/VTube-frontend",
       // tech: "HTML, Css, Bootstrap, Reactjs"
     },{
-      id: "2",
+      id: "3",
       pname:"Order Management System",
       src: oms ,
       url: "https://vivek-oms.netlify.app/",
       code: "	https://github.com/vivekanandhansj/order-management-system",
-    }   
+    } ,{
+     id: "4",
+      pname:"Ur pizzas",
+      src: oms ,
+      url: "https://ur-pizzas.netlify.app/",
+      code: "https://github.com/vivekanandhansj/ur-pizzas-frontend	",
+    
+    
+    }  
  
    
 
