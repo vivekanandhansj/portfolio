@@ -2,6 +2,7 @@ import React from "react";
 import makemytravel from "../assets/portfolio/makemytravel.jpg";
 import chatapp from "../assets/portfolio/chatapp.jpg";
 import oms from "../assets/portfolio/oms.png";
+import pizza from "../assets/portfolio/pizza.png";
 
 
 const Portfolio = () => {
@@ -30,7 +31,7 @@ const Portfolio = () => {
     } ,{
      id: "4",
       pname:"Ur pizzas",
-      src: oms ,
+      src: pizza ,
       url: "https://ur-pizzas.netlify.app/",
       code: "https://github.com/vivekanandhansj/ur-pizzas-frontend	",
     
