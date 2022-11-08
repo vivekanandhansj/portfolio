@@ -2,7 +2,7 @@ import React from "react";
 import makemytravel from "../assets/portfolio/makemytravel.jpg";
 import chatapp from "../assets/portfolio/chatapp.jpg";
 import oms from "../assets/portfolio/oms.png";
-import pizza from "../assets/portfolio/pizza.png";
+import pizza from "../assets/portfolio/pizza.jpg";
 
 
 const Portfolio = () => {
