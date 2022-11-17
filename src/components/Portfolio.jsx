@@ -28,14 +28,14 @@ const Portfolio = () => {
       src: oms ,
       url: "https://vivek-oms.netlify.app/",
       code: "	https://github.com/vivekanandhansj/order-management-system",
-      tech: "HTML, Css, Reactjs, Expressjs, Nodejs, MongoDb"
+      tech: "HTML, Bootstrap, Reactjs, Expressjs, Nodejs, MongoDb"
     } ,{
      id: "4",
       pname:"Ur pizzas",
       src: pizza ,
       url: "https://ur-pizzas.netlify.app/",
       code: "https://github.com/vivekanandhansj/ur-pizzas-frontend	",
-      tech: "HTML, Css, Reactjs, Redux, Expressjs, Nodejs, MongoDb, stripe"
+      tech: "HTML, Bootstrap, Reactjs, Redux, Expressjs, Nodejs, MongoDb, stripe"
     
     
     }  
