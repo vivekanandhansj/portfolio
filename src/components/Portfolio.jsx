@@ -13,27 +13,29 @@ const Portfolio = () => {
       src: makemytravel,
       url: "https://vivek-makemytravel.netlify.app",
       code: "https://github.com/vivekanandhansj/bookingapp",
-      // tech: "HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas"
+      tech: "HTML, Css, Reactjs, Expressjs, Nodejs, MongoDb"
     },
     {
       id: "2",
       pname:"Snappy Chat",
       src: chatapp ,
-      url: "https://vtube-videostreaming.netlify.app",
-      code: "https://github.com/vivekanandhansj/VTube-frontend",
-      // tech: "HTML, Css, Bootstrap, Reactjs"
+      url: "https://snappy-chat-app.netlify.app/login",
+      code: "https://github.com/vivekanandhansj/chat-app",
+       tech: "HTML, Css, Reactjs, Nodejs, MongoDb, Socket.io"
     },{
       id: "3",
       pname:"Order Management System",
       src: oms ,
       url: "https://vivek-oms.netlify.app/",
       code: "	https://github.com/vivekanandhansj/order-management-system",
+      tech: "HTML, Css, Reactjs, Expressjs, Nodejs, MongoDb"
     } ,{
      id: "4",
       pname:"Ur pizzas",
       src: pizza ,
       url: "https://ur-pizzas.netlify.app/",
       code: "https://github.com/vivekanandhansj/ur-pizzas-frontend	",
+      tech: "HTML, Css, Reactjs, Redux, Expressjs, Nodejs, MongoDb, stripe"
     
     
     }  
@@ -56,7 +58,7 @@ const Portfolio = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5 px-12 sm:px-0">
-          {portfolios.map(({ id, src, url, code,pname }) => (
+          {portfolios.map(({ id, src, url, code,pname,tech }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 width="500"
@@ -65,7 +67,7 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="text-center text-gray-900 font-bold fs-1 mt-4">{pname}
-              {/* <div className="text-center fs-1 mt-4">{tech}</div> */}
+              {<div className="text-center fs-1 mt-4"> {tech}</div>}
 </div>
               <div className="flex items-center justify-center ">
                 <a href = {url} target="_blank" rel="noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 bg-gradient-to-b from-gray-900 to-gray-600 bg-gradient-to-rcursor-pointer hover:scale-105 hover:bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600  text-gray-900 font-bold rounded-md">
