@@ -33,8 +33,8 @@ const Portfolio = () => {
      id: "4",
       pname:"Ur pizzas",
       src: pizza ,
-      url: "https://ur-pizzas.netlify.app/",
-      code: "https://github.com/vivekanandhansj/ur-pizzas-frontend	",
+      url: "https://urpizzas.herokuapp.com/",
+      code: "	https://github.com/vivekanandhansj/pizzas",
       tech: "HTML, Bootstrap, Reactjs, Redux, Expressjs, Nodejs, MongoDb, stripe"
     
     
