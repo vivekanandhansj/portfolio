@@ -13,7 +13,7 @@ const Portfolio = () => {
       src: makemytravel,
       url: "https://vivek-makemytravel.netlify.app",
       code: "https://github.com/vivekanandhansj/bookingapp",
-      tech: "HTML, Css, Reactjs, Expressjs, Nodejs, MongoDb"
+      tech: "HTML, Css, Reactjs, Expressjs, Nodejs, MongoDb, Stripe"
     },
     {
       id: "2",
@@ -35,7 +35,7 @@ const Portfolio = () => {
       src: pizza ,
       url: "https://urpizzas.herokuapp.com/",
       code: "	https://github.com/vivekanandhansj/pizzas",
-      tech: "HTML, Bootstrap, Reactjs, Redux, Expressjs, Nodejs, MongoDb, stripe"
+      tech: "HTML, Bootstrap, Reactjs, Redux, Expressjs, Nodejs, MongoDb, Stripe"
     
     
     }  
