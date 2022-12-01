@@ -19,7 +19,7 @@ const Portfolio = () => {
       id: "2",
       pname:"Snappy Chat",
       src: chatapp ,
-      url: "https://snappy-chat-app.netlify.app/login",
+      url: "https://snappy-chat-app.netlify.app/",
       code: "https://github.com/vivekanandhansj/chat-app",
        tech: "HTML, Css, Reactjs, Nodejs, MongoDb, Socket.io"
     },{
