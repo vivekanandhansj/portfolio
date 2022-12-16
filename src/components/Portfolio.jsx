@@ -2,7 +2,7 @@ import React from "react";
 import makemytravel from "../assets/portfolio/makemytravel.jpg";
 import chatapp from "../assets/portfolio/chatapp.jpg";
 import oms from "../assets/portfolio/oms.png";
-import pizza from "../assets/portfolio/pizza.jpg";
+import shopping from "../assets/portfolio/shopping.png";
 
 
 const Portfolio = () => {
@@ -32,7 +32,7 @@ const Portfolio = () => {
     } ,{
      id: "4",
       pname:"Shopping Cart",
-      src: pizza ,
+      src: shopping ,
       url: "https://vshopcart.netlify.app/",
       code: "https://github.com/vivekanandhansj/shopping",
       tech: "HTML, Bootstrap, Reactjs, Redux"
