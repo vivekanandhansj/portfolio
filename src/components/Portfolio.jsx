@@ -31,11 +31,11 @@ const Portfolio = () => {
       tech: "HTML, Bootstrap, Reactjs, Expressjs, Nodejs, MongoDb"
     } ,{
      id: "4",
-      pname:"Ur pizzas",
+      pname:"Shopping Cart",
       src: pizza ,
-      url: "https://urpizzas.herokuapp.com/",
-      code: "	https://github.com/vivekanandhansj/pizzas",
-      tech: "HTML, Bootstrap, Reactjs, Redux, Expressjs, Nodejs, MongoDb, Stripe"
+      url: "https://vshopcart.netlify.app/",
+      code: "https://github.com/vivekanandhansj/shopping",
+      tech: "HTML, Bootstrap, Reactjs, Redux"
     
     
     }  
