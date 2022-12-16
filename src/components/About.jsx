@@ -21,7 +21,7 @@ const About = () => {
             college of technoloy , Tiruchengode.
           </p>
           <p className="mt-5">
-          Passionate full stack engineer with hands on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Javascript, Mongodb, Nodejs, Expressjs.
+          Passionate full stack engineer with hands on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Javascript,Reactjs, Mongodb, Nodejs, Expressjs.
           </p>
           <p className="mt-5">
            Looking to further enhance my skills as the future full stack developer.
